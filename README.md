@@ -417,7 +417,9 @@ Encuentra la forma en obtener los resultados de los archivos XML en la siguiente
 ```
 
 ## Notas
-Si hay algo que no esté claro, toma una decisión y documenta por qué lo resolviste de esa manera. No importa si no terminas, queremos ver tus métodos y la forma de resolver el reto. Realiza el reto y envía un mail adjuntando tu CV y un link a tu repositorio con tus resultados a Carolina Gayosso (carolina@kodemia.mx), tienes hasta el 29 de Mayo para enviar tu ejercicio. Recibirás un mail confirmando tu participación en el evento y los siguientes pasos.
+- Si hay algo que no esté claro, toma una decisión y documenta por qué lo resolviste de esa manera. 
+- No importa si no terminas, queremos ver tus métodos y la forma de resolver el reto. Realiza el reto y envía un mail adjuntando tu CV y un link a tu repositorio con tus resultados a Carolina Gayosso (carolina@kodemia.mx), tienes hasta el **29 de Mayo** para enviar tu ejercicio. 
+- Recibirás un mail confirmando tu participación en el evento y los siguientes pasos.
 
 <h2 align='center'> ¡Kodemia te desea todo el éxito! </h2>
 
