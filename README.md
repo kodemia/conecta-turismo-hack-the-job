@@ -54,7 +54,7 @@ Además habrá donas, pizza, café y cervezas
 - Comunicación oportuna y efectiva
 - Seguimiento y control
 
->> <h2 align='center'> ¡Buscamos talento, <b>NO títulos</b>! </h2>
+> <h2 align='center'> ¡Buscamos talento, <b>NO títulos</b>! </h2>
 
 Tu lugar de trabajo será un lugar en donde surgen las ideas y se colabora con equipos multidisciplinarios en todo momento COW Roma El horario es de 9:00 a 6:00pm pero flexibles ya que lo importante es cumplir con los objetivos.
 
