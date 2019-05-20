@@ -58,7 +58,7 @@ Además habrá donas, pizza, café y cervezas
 
 Tu lugar de trabajo será un lugar en donde surgen las ideas y se colabora con equipos multidisciplinarios en todo momento COW Roma El horario es de 9:00 a 6:00pm pero flexibles ya que lo importante es cumplir con los objetivos.
 
-La oferta económica cuenta con una base de $35, 000.00 MXN mensuales y se te hara una oferta final acorde a tus conocimientos y experiencia  además de las prestaciones de ley. 
+La oferta económica cuenta con una base de $35, 000.00 MXN mensuales brutos y se te hara una oferta final acorde a tus conocimientos y experiencia  además de las prestaciones de ley. 
 
 ### ¿Que tengo que hacer?
 
@@ -417,10 +417,7 @@ Encuentra la forma en obtener los resultados de los archivos XML en la siguiente
 ```
 
 ## Notas
-Si hay algo que no esté claro, toma una decisión y documenta por qué lo resolviste de esa manera.
-No importa si no terminas, queremos ver tus métodos y la forma de resolver el reto.
-Realiza el reto y envía un mail adjuntando tu CV y un link a tu repositorio con tus resultados a Carolina Gayosso (carolina@kodemia.mx), tienes hasta el 22 de Mayo para enviar tu ejercicio. Recibirás un mail confirmando tu participación en el evento y los siguientes pasos.
-Asiste al evento Hack The Job el 29 de Mayo y participa por premios y la oportunidad de mostrar tus resultados directamente al CTO de ConectaTurismo
+Si hay algo que no esté claro, toma una decisión y documenta por qué lo resolviste de esa manera. No importa si no terminas, queremos ver tus métodos y la forma de resolver el reto. Realiza el reto y envía un mail adjuntando tu CV y un link a tu repositorio con tus resultados a Carolina Gayosso (carolina@kodemia.mx), tienes hasta el 29 de Mayo para enviar tu ejercicio. Recibirás un mail confirmando tu participación en el evento y los siguientes pasos.
 
 <h2 align='center'> ¡Kodemia te desea todo el éxito! </h2>
 
