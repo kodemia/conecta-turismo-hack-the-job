@@ -58,7 +58,7 @@ Además habrá donas, pizza, café y cervezas
 
 Tu lugar de trabajo será un lugar en donde surgen las ideas y se colabora con equipos multidisciplinarios en todo momento COW Roma El horario es de 9:00 a 6:00pm pero flexibles ya que lo importante es cumplir con los objetivos.
 
-La oferta económica cuenta con una base de $35, 000.00 MXN mensuales brutos y se te hara una oferta final acorde a tus conocimientos y experiencia  además de las prestaciones de ley. 
+La oferta económica cuenta con una base de $35, 000.00 MXN mensuales netos y se te hara una oferta final acorde a tus conocimientos y experiencia  además de las prestaciones de ley. 
 
 ### ¿Que tengo que hacer?
 
